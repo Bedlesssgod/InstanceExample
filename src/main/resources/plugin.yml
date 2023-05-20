@@ -1,0 +1,4 @@
+name: InstanceExample
+version: '${project.version}'
+main: com.bedless.instanceexample.InstanceExample
+api-version: 1.19
